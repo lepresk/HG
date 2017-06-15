@@ -1,0 +1,96 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="db_host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="db_username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="db_pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="db_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hg</Value>
+    </Setting>
+    <Setting Name="unite_monetaire" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Fcfa</Value>
+    </Setting>
+    <Setting Name="num_facture" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="user_id" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="point_vente_id" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="point_vente_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CHAMBRE FROIDE</Value>
+    </Setting>
+    <Setting Name="logo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\dev\Resto\37989.png</Value>
+    </Setting>
+    <Setting Name="user_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Lepres</Value>
+    </Setting>
+    <Setting Name="app_debug_mode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="trainning_db" Type="System.String" Scope="User">
+      <Value Profile="(Default)">trainning</Value>
+    </Setting>
+    <Setting Name="printing_available" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PrinterName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">POS80 10.0.0.11</Value>
+    </Setting>
+    <Setting Name="printFontName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Agency FB</Value>
+    </Setting>
+    <Setting Name="app_etablisement" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HG Group Agro &amp; Business</Value>
+    </Setting>
+    <Setting Name="app_slogan" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vente des produits congelés</Value>
+    </Setting>
+    <Setting Name="app_adresse" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Fond tié-tié</Value>
+    </Setting>
+    <Setting Name="app_tel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">056369071</Value>
+    </Setting>
+    <Setting Name="app_receip_footer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Les marchandises achetées ne sont ni reprises ni échangées.</Value>
+    </Setting>
+    <Setting Name="cli_boucherie_id" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="last_date" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="main_theme" Type="System.String" Scope="User">
+      <Value Profile="(Default)">background</Value>
+    </Setting>
+    <Setting Name="backup_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="process_backup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="backup_exe" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\xampp\mysql\bin\mysqldump.exe</Value>
+    </Setting>
+    <Setting Name="cli_livraison_id" Type="System.String" Scope="User">
+      <Value Profile="(Default)">246</Value>
+    </Setting>
+    <Setting Name="thread_count" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="restore_exe" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\xampp\mysql\bin\mysql.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
