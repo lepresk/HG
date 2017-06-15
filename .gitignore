@@ -1,0 +1,15 @@
+/old-report
+
+/TestResults
+
+database.mwb
+
+database.mwb.bak
+
+database.mwb.beforefix
+
+*.sql
+
+/HG/bin
+
+/HG/obj
